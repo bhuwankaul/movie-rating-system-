@@ -1,0 +1,2 @@
+select S_NO, MOVIE_NAME, (BOX_OFFICE-BUDGET) AS REVENUE
+FROM movie_data;
